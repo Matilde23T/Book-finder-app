@@ -8,14 +8,18 @@ The user will also be able to view the description of each individual book via t
 
 ## Languages
 
--HTML5
--CSS3
--JAVASCRIPT
+- HTML5
+- CSS3
+- JAVASCRIPT
 
 ## External libraries
 
 - [Open library](https://openlibrary.org/).
 - Axios
+
+## Try it!
+
+You can start looking for your books at this link[Book finder app](https://bkfinderapp.netlify.app/)
 
 ## Contact me
 
