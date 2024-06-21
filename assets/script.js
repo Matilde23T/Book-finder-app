@@ -58,7 +58,7 @@ function searchBooks(query) {
       })
       .catch(error => {
           console.error('Error fetching book data:', error);
-          alert('Errore durante la ricerca dei libri. Riprova più tardi.');
+          alert('Error while searching for books. Try later.');
       })};
 
 
